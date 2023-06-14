@@ -1,1 +1,1 @@
-# academic-projects
+# academi_projects
